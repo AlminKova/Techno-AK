@@ -1,0 +1,103 @@
+.glavno{
+	border-color: black;
+	border-style: solid;
+	border-width: 5px;
+	background-color: #3860ff;
+	padding-left: 30px ;
+	opacity: 80% ;
+	color: black ;
+	text-shadow: 1px 1px white;
+
+
+ 
+
+      }
+
+
+
+body{
+	background-image:url(pozadina.jpg);
+
+	 font-size: 20px ;
+	 font-family: times;
+
+	
+	
+
+
+}
+
+
+.glavno a{
+text-align: left;
+padding-left: 10px ;
+overflow: hidden;
+}
+
+
+.glavno a{
+
+	padding-left: 25px ;
+	color: black;
+}
+
+
+
+
+
+
+
+.glavno a:hover{
+	background-color: black ;
+	color: white ;
+}	
+
+
+.glavno a:active{
+
+	background:#152fd6 ;
+	color: black ;
+}
+
+
+.footer {
+
+	clear: both;
+	padding: 10px ;
+	background-color: #999999;
+	color: black;
+	text-align: center;
+	padding: 10px;
+	border-color: black ;
+	border-style: solid;
+	opacity: 80%
+
+	
+
+}
+
+.ikone{
+
+   background-color: #3860ff ;
+   padding: 40px ;
+   margin-top: 40px ;
+   margin-left: 85% ;
+   opacity: 80% ;
+   border-color: black ;
+   border-style: solid;
+   border-width: 5px ;
+}
+
+
+   
+ 
+  
+  
+  
+  
+
+
+
+
+  
+

@@ -1,0 +1,42 @@
+body{
+	background-image: url(pozadina3.jpg);
+	font-size: 20px ;
+}
+
+.nav{
+	
+	border-width: 5px;
+	background-color: #3860ff;
+	opacity: 80% ;
+	text-shadow: 1px 1px white;
+	border-style: solid;
+	border-color: black;
+	overflow: hidden;
+	text-decoration: none;
+
+
+
+
+}
+
+
+.nav a:hover{
+	background-color: black ;
+	color: white ;
+}	
+
+
+.nav a:active{
+
+	background:#152fd6 ;
+	color: black ;
+}
+
+
+
+.nav a{
+text-align: left;
+padding-left: 45px ;
+overflow: hidden;
+color: black ;
+}
